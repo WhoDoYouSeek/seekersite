@@ -37,15 +37,15 @@ setInterval(updateClock, 1000);
 
 
 const options = [
-    "Right-Click to access more features",
-    "Set a custom background in settings.",
-    "Tab Cloaking is highly recommended",
-    "About:Blank Cloak is highly recommended",
-    "Finally, an actual site unblocker that works fast!",
-    "It is not recommended to share this link with anyone.",
-    "discord.gg/unblocking for more",
-    "© Copyright 2024 Doge Network. All Rights Reserved.",
-    "Customize Doge by going to Settings > Themes",
+    "get back to work lil bro",
+    "if we get caught, the tallest one takes the blame 100% (just kidding)",
+    "dont snitch on us",
+    "I skidded 99% of this sНit",
+    "took us long enough",
+    "this is the private version lil bro keep it pushing",
+    "CLOAK YOUR TABS, I REPEAT, CLOAK YOUR FUCK!NG TABS",
+    "I hate the government",
+    "I got touched last night",
 ];
 
 function getRandomOption() {
