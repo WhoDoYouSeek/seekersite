@@ -37,15 +37,8 @@ setInterval(updateClock, 1000);
 
 
 const options = [
-    "get back to work lil bro",
-    "if we get caught, the tallest one takes the blame 100% (just kidding)",
-    "dont snitch on us",
-    "I skidded 99% of this sНit",
-    "took us long enough",
-    "this is the private version lil bro keep it pushing",
-    "CLOAK YOUR TABS, I REPEAT, CLOAK YOUR FUCK!NG TABS",
-    "I hate the government",
-    "I got touched last night",
+    "Don't screw with the site.",
+	"go to [this url] and add a /mymessage.html to the end. Ok?"
 ];
 
 function getRandomOption() {
